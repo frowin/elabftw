@@ -37,3 +37,4 @@ tests/elabftw-user.env
 /todo
 /ideas
 .yarn
+**/.DS_Store
